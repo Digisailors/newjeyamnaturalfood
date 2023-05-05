@@ -11328,6 +11328,7 @@ article iframe {
 h1.entry-title {
 	font-size: 32px;
 	margin-bottom: 0.8em;
+	line-height: 4rem;
 }
 
 .entry-meta + h1.entry-title {
@@ -15565,4 +15566,8 @@ a.color-icon.border-icon:hover {
 
 .checkbox-slider--b-flat input + span:before {
 	box-shadow: none;
+}
+
+.small-text a {
+	color: white;
 }
