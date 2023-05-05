@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "jeyam-dc0e6"
-  }
+    "default": "jeyam-natural-foods-1ee63",
+    "staging": "jeyam-natural-foods-1ee63"
+  },
+  "targets": {},
+  "etags": {}
 }
